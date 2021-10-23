@@ -1,0 +1,9 @@
+C:\Users\princ\source\repos\UnitTestExample\bin\Debug\netcoreapp3.1\UnitTestExample.deps.json
+C:\Users\princ\source\repos\UnitTestExample\bin\Debug\netcoreapp3.1\UnitTestExample.dll
+C:\Users\princ\source\repos\UnitTestExample\bin\Debug\netcoreapp3.1\UnitTestExample.pdb
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.csprojAssemblyReference.cache
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.AssemblyInfoInputs.cache
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.AssemblyInfo.cs
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.dll
+C:\Users\princ\source\repos\UnitTestExample\obj\Debug\netcoreapp3.1\UnitTestExample.pdb
